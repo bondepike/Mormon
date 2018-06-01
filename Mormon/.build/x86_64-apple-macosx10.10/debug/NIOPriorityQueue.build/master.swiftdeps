@@ -1,6 +1,0 @@
-version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
-options: "ed99974c4b8da3b558c65adacc608f4b"
-build_time: [1527880372, 923189000]
-inputs:
-  "/Users/Adrian/Projects/Mormon/Mormon/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOPriorityQueue/Heap.swift": [1527879479, 0]
-  "/Users/Adrian/Projects/Mormon/Mormon/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOPriorityQueue/PriorityQueue.swift": [1527879479, 0]

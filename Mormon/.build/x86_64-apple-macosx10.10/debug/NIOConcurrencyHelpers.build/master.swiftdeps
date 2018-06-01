@@ -1,6 +1,0 @@
-version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
-options: "96b839e73ae7414fc31255aab445918a"
-build_time: [1527880377, 104587000]
-inputs:
-  "/Users/Adrian/Projects/Mormon/Mormon/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOConcurrencyHelpers/atomics.swift": [1527879479, 0]
-  "/Users/Adrian/Projects/Mormon/Mormon/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOConcurrencyHelpers/lock.swift": [1527879479, 0]
