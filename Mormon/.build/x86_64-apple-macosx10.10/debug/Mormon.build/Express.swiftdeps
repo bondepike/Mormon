@@ -1,0 +1,239 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Express"
+provides-nominal:
+- "6Mormon7ExpressC"
+provides-member:
+- ["6Mormon7ExpressC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "AssignmentPrecedence"
+- !private "ChannelOptions"
+- "Error"
+- "Express"
+- !private "HTTPHandler"
+- !private "IPPROTO_TCP"
+- "Int"
+- "MultiThreadedEventLoopGroup"
+- "Router"
+- !private "SOL_SOCKET"
+- !private "SO_REUSEADDR"
+- !private "ServerBootstrap"
+- !private "SocketOptionLevel"
+- "String"
+- "StringLiteralType"
+- "System"
+- !private "TCP_NODELAY"
+depends-member:
+- !private ["21NIOConcurrencyHelpers15AtomicPrimitiveP", "init"]
+- ["s23BidirectionalCollectionP", "init"]
+- !private ["s13BinaryIntegerP", "init"]
+- ["s7CVarArgP", "init"]
+- !private ["3NIO7ChannelP", "closeFuture"]
+- !private ["3NIO7ChannelP", "pipeline"]
+- !private ["3NIO14ChannelHandlerP", "init"]
+- !private ["3NIO21ChannelInboundHandlerP", "init"]
+- !private ["3NIO21ChannelInboundInvokerP", "add"]
+- !private ["3NIO21ChannelInboundInvokerP", "configureHTTPServerPipeline"]
+- !private ["3NIO14ChannelInvokerP", "add"]
+- !private ["3NIO14ChannelInvokerP", "configureHTTPServerPipeline"]
+- !private ["3NIO14ChannelOptionsV", "backlog"]
+- !private ["3NIO14ChannelOptionsV", "maxMessagesPerRead"]
+- !private ["3NIO14ChannelOptionsV", "socket"]
+- !private ["3NIO22ChannelOutboundInvokerP", "add"]
+- !private ["3NIO22ChannelOutboundInvokerP", "closeFuture"]
+- !private ["3NIO22ChannelOutboundInvokerP", "configureHTTPServerPipeline"]
+- !private ["3NIO22ChannelOutboundInvokerP", "pipeline"]
+- !private ["3NIO15ChannelPipelineC", "add"]
+- !private ["3NIO15ChannelPipelineC", "configureHTTPServerPipeline"]
+- ["s10CollectionP", "init"]
+- ["s10ComparableP", "init"]
+- !private ["3NIO20ContiguousCollectionP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "add"]
+- !private ["s28CustomDebugStringConvertibleP", "configureHTTPServerPipeline"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s17CustomReflectableP", "init"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s9DecodableP", "init"]
+- ["s9EncodableP", "init"]
+- ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "then"]
+- !private ["s9EquatableP", "wait"]
+- !private ["3NIO15EventLoopFutureC", "then"]
+- !private ["3NIO15EventLoopFutureC", "wait"]
+- ["3NIO14EventLoopGroupP", "init"]
+- !private ["6Mormon7ExpressC", "ChannelOptions"]
+- ["6Mormon7ExpressC", "Error"]
+- !private ["6Mormon7ExpressC", "HTTPHandler"]
+- !private ["6Mormon7ExpressC", "IPPROTO_TCP"]
+- ["6Mormon7ExpressC", "Int"]
+- ["6Mormon7ExpressC", "MultiThreadedEventLoopGroup"]
+- !private ["6Mormon7ExpressC", "SOL_SOCKET"]
+- !private ["6Mormon7ExpressC", "SO_REUSEADDR"]
+- !private ["6Mormon7ExpressC", "ServerBootstrap"]
+- !private ["6Mormon7ExpressC", "SocketOptionLevel"]
+- ["6Mormon7ExpressC", "String"]
+- ["6Mormon7ExpressC", "System"]
+- !private ["6Mormon7ExpressC", "TCP_NODELAY"]
+- ["6Mormon7ExpressC", "deinit"]
+- !private ["6Mormon7ExpressC", "hostAdress"]
+- ["6Mormon7ExpressC", "init"]
+- ["6Mormon7ExpressC", "listen"]
+- !private ["6Mormon7ExpressC", "loopGroup"]
+- ["6Mormon7ExpressC", "setHost"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- !private ["6Mormon11HTTPHandlerC", "deinit"]
+- !private ["6Mormon11HTTPHandlerC", "init"]
+- ["s8HashableP", "init"]
+- !private ["s5Int32V", "init"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s10MirrorPathP", "init"]
+- ["3NIO27MultiThreadedEventLoopGroupC", "init"]
+- !private ["s7NumericP", "init"]
+- ["s26RangeReplaceableCollectionP", "init"]
+- !private ["6Mormon6RouterC", "ChannelOptions"]
+- ["6Mormon6RouterC", "Error"]
+- !private ["6Mormon6RouterC", "HTTPHandler"]
+- !private ["6Mormon6RouterC", "IPPROTO_TCP"]
+- ["6Mormon6RouterC", "Int"]
+- ["6Mormon6RouterC", "MultiThreadedEventLoopGroup"]
+- !private ["6Mormon6RouterC", "SOL_SOCKET"]
+- !private ["6Mormon6RouterC", "SO_REUSEADDR"]
+- !private ["6Mormon6RouterC", "ServerBootstrap"]
+- !private ["6Mormon6RouterC", "SocketOptionLevel"]
+- ["6Mormon6RouterC", "String"]
+- ["6Mormon6RouterC", "System"]
+- !private ["6Mormon6RouterC", "TCP_NODELAY"]
+- ["6Mormon6RouterC", ""]
+- ["6Mormon6RouterC", "hostAdress"]
+- ["6Mormon6RouterC", "init"]
+- ["6Mormon6RouterC", "listen"]
+- ["6Mormon6RouterC", "loopGroup"]
+- ["6Mormon6RouterC", "setHost"]
+- ["s8SequenceP", "init"]
+- !private ["3NIO15ServerBootstrapC", "bind"]
+- !private ["3NIO15ServerBootstrapC", "childChannelInitializer"]
+- !private ["3NIO15ServerBootstrapC", "childChannelOption"]
+- !private ["3NIO15ServerBootstrapC", "init"]
+- !private ["3NIO15ServerBootstrapC", "serverChannelOption"]
+- !private ["s13SignedIntegerP", "init"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["s12StaticStringV", "init"]
+- !private ["s10StrideableP", "init"]
+- ["SS", "init"]
+- ["s14StringProtocolP", "init"]
+- ["3NIO6SystemO", "coreCount"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- !private ["s18_BitwiseOperationsP", "init"]
+- !private ["3NIO22_ChannelInboundHandlerP", "init"]
+- !private ["3NIO23_EmittingChannelHandlerP", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "21NIOConcurrencyHelpers15AtomicPrimitiveP"
+- "s23BidirectionalCollectionP"
+- !private "s13BinaryIntegerP"
+- "s7CVarArgP"
+- !private "3NIO7ChannelP"
+- !private "3NIO14ChannelHandlerP"
+- !private "3NIO21ChannelInboundHandlerP"
+- !private "3NIO21ChannelInboundInvokerP"
+- !private "3NIO14ChannelInvokerP"
+- !private "3NIO14ChannelOptionsV"
+- !private "3NIO22ChannelOutboundInvokerP"
+- !private "3NIO15ChannelPipelineC"
+- "s10CollectionP"
+- "s10ComparableP"
+- !private "3NIO20ContiguousCollectionP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- "s9EncodableP"
+- "s9EquatableP"
+- !private "3NIO15EventLoopFutureC"
+- "3NIO14EventLoopGroupP"
+- "6Mormon7ExpressC"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s17FixedWidthIntegerP"
+- !private "6Mormon11HTTPHandlerC"
+- "s8HashableP"
+- !private "s5Int32V"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- "3NIO27MultiThreadedEventLoopGroupC"
+- !private "s7NumericP"
+- "s26RangeReplaceableCollectionP"
+- "6Mormon6RouterC"
+- "s8SequenceP"
+- !private "3NIO15ServerBootstrapC"
+- !private "s13SignedIntegerP"
+- !private "s13SignedNumericP"
+- !private "s12StaticStringV"
+- !private "s10StrideableP"
+- "SS"
+- "s14StringProtocolP"
+- "3NIO6SystemO"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "s18_BitwiseOperationsP"
+- !private "3NIO22_ChannelInboundHandlerP"
+- !private "3NIO23_EmittingChannelHandlerP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "s21_ObjectiveCBridgeableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Users/Adrian/Projects/Mormon/Mormon/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/Adrian/Projects/Mormon/Mormon/.build/x86_64-apple-macosx10.10/debug/NIO.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/Adrian/Projects/Mormon/Mormon/.build/x86_64-apple-macosx10.10/debug/NIOConcurrencyHelpers.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/Adrian/Projects/Mormon/Mormon/.build/checkouts/swift-nio.git-3108475404973543938/Sources/CNIOZlib/include/c_nio_zlib.h"
+- "/Users/Adrian/Projects/Mormon/Mormon/.build/checkouts/swift-nio.git-3108475404973543938/Sources/CNIOAtomics/include/cpp_magic.h"
+- "/Users/Adrian/Projects/Mormon/Mormon/.build/checkouts/swift-nio.git-3108475404973543938/Sources/CNIODarwin/include/c_nio_darwin.h"
+- "/Users/Adrian/Projects/Mormon/Mormon/.build/checkouts/swift-nio.git-3108475404973543938/Sources/CNIOHTTPParser/include/c_nio_http_parser.h"
+- "/Users/Adrian/Projects/Mormon/Mormon/.build/checkouts/swift-nio.git-3108475404973543938/Sources/CNIOAtomics/include/c-atomics.h"
+- "/Users/Adrian/Projects/Mormon/Mormon/.build/checkouts/swift-nio.git-3108475404973543938/Sources/CNIOLinux/include/c_nio_linux.h"
+- "/Users/Adrian/Projects/Mormon/Mormon/.build/checkouts/swift-nio-zlib-support.git--1071467962839356487/module.modulemap"
+- "/Users/Adrian/Projects/Mormon/Mormon/.build/x86_64-apple-macosx10.10/debug/CNIOSHA1.build/module.modulemap"
+- "/Users/Adrian/Projects/Mormon/Mormon/.build/x86_64-apple-macosx10.10/debug/CNIOZlib.build/module.modulemap"
+- "/Users/Adrian/Projects/Mormon/Mormon/.build/x86_64-apple-macosx10.10/debug/CNIODarwin.build/module.modulemap"
+- "/Users/Adrian/Projects/Mormon/Mormon/.build/x86_64-apple-macosx10.10/debug/CNIOHTTPParser.build/module.modulemap"
+- "/Users/Adrian/Projects/Mormon/Mormon/.build/x86_64-apple-macosx10.10/debug/CNIOAtomics.build/module.modulemap"
+- "/Users/Adrian/Projects/Mormon/Mormon/.build/x86_64-apple-macosx10.10/debug/CNIOLinux.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "8715b1992fd0a4a69321ce8d7ed47b72"

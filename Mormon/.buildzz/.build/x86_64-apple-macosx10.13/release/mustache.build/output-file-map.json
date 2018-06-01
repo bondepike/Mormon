@@ -1,0 +1,37 @@
+{
+  "": {
+    "dependencies": "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/x86_64-apple-macosx10.10/release/mustache.build/mustache.d",
+    "object": "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/x86_64-apple-macosx10.10/release/mustache.build/mustache.o",
+    "swift-dependencies": "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/x86_64-apple-macosx10.10/release/mustache.build/master.swiftdeps"
+  },
+  "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/checkouts/mustache.git-457115531945688176/Sources/mustache/HTMLEscape.swift": {
+    "object": "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/x86_64-apple-macosx10.10/release/mustache.build/HTMLEscape.swift.o",
+    "swiftmodule": "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/x86_64-apple-macosx10.10/release/mustache.build/HTMLEscape~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/x86_64-apple-macosx10.10/release/mustache.build/HTMLEscape.swiftdeps"
+  },
+  "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/checkouts/mustache.git-457115531945688176/Sources/mustache/Helpers.swift": {
+    "object": "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/x86_64-apple-macosx10.10/release/mustache.build/Helpers.swift.o",
+    "swiftmodule": "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/x86_64-apple-macosx10.10/release/mustache.build/Helpers~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/x86_64-apple-macosx10.10/release/mustache.build/Helpers.swiftdeps"
+  },
+  "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/checkouts/mustache.git-457115531945688176/Sources/mustache/MustacheNode.swift": {
+    "object": "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/x86_64-apple-macosx10.10/release/mustache.build/MustacheNode.swift.o",
+    "swiftmodule": "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/x86_64-apple-macosx10.10/release/mustache.build/MustacheNode~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/x86_64-apple-macosx10.10/release/mustache.build/MustacheNode.swiftdeps"
+  },
+  "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/checkouts/mustache.git-457115531945688176/Sources/mustache/MustacheParser.swift": {
+    "object": "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/x86_64-apple-macosx10.10/release/mustache.build/MustacheParser.swift.o",
+    "swiftmodule": "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/x86_64-apple-macosx10.10/release/mustache.build/MustacheParser~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/x86_64-apple-macosx10.10/release/mustache.build/MustacheParser.swiftdeps"
+  },
+  "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/checkouts/mustache.git-457115531945688176/Sources/mustache/MustacheRenderingContext.swift": {
+    "object": "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/x86_64-apple-macosx10.10/release/mustache.build/MustacheRenderingContext.swift.o",
+    "swiftmodule": "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/x86_64-apple-macosx10.10/release/mustache.build/MustacheRenderingContext~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/x86_64-apple-macosx10.10/release/mustache.build/MustacheRenderingContext.swiftdeps"
+  },
+  "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/checkouts/mustache.git-457115531945688176/Sources/mustache/SimpleKVC.swift": {
+    "object": "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/x86_64-apple-macosx10.10/release/mustache.build/SimpleKVC.swift.o",
+    "swiftmodule": "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/x86_64-apple-macosx10.10/release/mustache.build/SimpleKVC~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/x86_64-apple-macosx10.10/release/mustache.build/SimpleKVC.swiftdeps"
+  }
+}

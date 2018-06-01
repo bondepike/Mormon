@@ -1,0 +1,11 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "dd267aaff5ace7b48598826528c5d817"
+build_time: [1523458436, 854569000]
+inputs:
+  "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOHTTP1/HTTPDecoder.swift": [1523458421, 0]
+  "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOHTTP1/HTTPEncoder.swift": [1523458421, 0]
+  "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOHTTP1/HTTPPipelineSetup.swift": [1523458421, 0]
+  "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOHTTP1/HTTPResponseCompressor.swift": [1523458421, 0]
+  "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOHTTP1/HTTPServerPipelineHandler.swift": [1523458421, 0]
+  "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOHTTP1/HTTPTypes.swift": [1523458421, 0]
+  "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOHTTP1/HTTPUpgradeHandler.swift": [1523458421, 0]

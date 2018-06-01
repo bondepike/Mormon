@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "3bd7fafd9509506aa9387b11c4e9eec9"
+build_time: [1527880382, 854156000]
+inputs:
+  "/Users/Adrian/Projects/Mormon/Mormon/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOHTTP1/HTTPDecoder.swift": [1527879479, 0]
+  "/Users/Adrian/Projects/Mormon/Mormon/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOHTTP1/HTTPEncoder.swift": [1527879479, 0]
+  "/Users/Adrian/Projects/Mormon/Mormon/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOHTTP1/HTTPPipelineSetup.swift": [1527879479, 0]
+  "/Users/Adrian/Projects/Mormon/Mormon/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOHTTP1/HTTPResponseCompressor.swift": [1527879479, 0]
+  "/Users/Adrian/Projects/Mormon/Mormon/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOHTTP1/HTTPServerPipelineHandler.swift": [1527879479, 0]
+  "/Users/Adrian/Projects/Mormon/Mormon/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOHTTP1/HTTPServerProtocolErrorHandler.swift": [1527879479, 0]
+  "/Users/Adrian/Projects/Mormon/Mormon/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOHTTP1/HTTPTypes.swift": [1527879479, 0]
+  "/Users/Adrian/Projects/Mormon/Mormon/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOHTTP1/HTTPUpgradeHandler.swift": [1527879479, 0]

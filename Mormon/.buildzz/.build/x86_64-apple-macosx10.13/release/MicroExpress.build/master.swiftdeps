@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "b59e4351c7c56e6f0a9204efab609f20"
+build_time: [1523458473, 896672000]
+inputs:
+  "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/checkouts/MicroExpress.git-6340581023861930988/Sources/MicroExpress/CORS.swift": [9223372036, 854775807]
+  "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/checkouts/MicroExpress.git-6340581023861930988/Sources/MicroExpress/Express.swift": [9223372036, 854775807]
+  "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/checkouts/MicroExpress.git-6340581023861930988/Sources/MicroExpress/FS.swift": [9223372036, 854775807]
+  "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/checkouts/MicroExpress.git-6340581023861930988/Sources/MicroExpress/IncomingMessage.swift": [9223372036, 854775807]
+  "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/checkouts/MicroExpress.git-6340581023861930988/Sources/MicroExpress/Middleware.swift": [9223372036, 854775807]
+  "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/checkouts/MicroExpress.git-6340581023861930988/Sources/MicroExpress/QueryString.swift": [9223372036, 854775807]
+  "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/checkouts/MicroExpress.git-6340581023861930988/Sources/MicroExpress/Router.swift": [9223372036, 854775807]
+  "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/checkouts/MicroExpress.git-6340581023861930988/Sources/MicroExpress/ServerResponse.swift": [9223372036, 854775807]

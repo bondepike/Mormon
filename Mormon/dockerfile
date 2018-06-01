@@ -1,0 +1,9 @@
+FROM swift
+
+WORKDIR .
+COPY . .
+
+EXPOSE 3000
+
+RUN swift build
+CMD swift run

@@ -1,0 +1,17 @@
+{
+  "": {
+    "dependencies": "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/x86_64-apple-macosx10.10/release/NIOConcurrencyHelpers.build/NIOConcurrencyHelpers.d",
+    "object": "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/x86_64-apple-macosx10.10/release/NIOConcurrencyHelpers.build/NIOConcurrencyHelpers.o",
+    "swift-dependencies": "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/x86_64-apple-macosx10.10/release/NIOConcurrencyHelpers.build/master.swiftdeps"
+  },
+  "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOConcurrencyHelpers/atomics.swift": {
+    "object": "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/x86_64-apple-macosx10.10/release/NIOConcurrencyHelpers.build/atomics.swift.o",
+    "swiftmodule": "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/x86_64-apple-macosx10.10/release/NIOConcurrencyHelpers.build/atomics~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/x86_64-apple-macosx10.10/release/NIOConcurrencyHelpers.build/atomics.swiftdeps"
+  },
+  "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOConcurrencyHelpers/lock.swift": {
+    "object": "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/x86_64-apple-macosx10.10/release/NIOConcurrencyHelpers.build/lock.swift.o",
+    "swiftmodule": "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/x86_64-apple-macosx10.10/release/NIOConcurrencyHelpers.build/lock~partial.swiftmodule",
+    "swift-dependencies": "/private/tmp/swift-xcode-nio-20180411-85156-1bp6b9w/SwiftNIO_XcodeImage-0.3.2/.build/x86_64-apple-macosx10.10/release/NIOConcurrencyHelpers.build/lock.swiftdeps"
+  }
+}
