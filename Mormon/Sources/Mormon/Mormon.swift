@@ -14,7 +14,7 @@ import NIOHTTP1
 class Mormon: Router {
     
     private var hostAdress: String = "localhost"
-    private let loopGroup = MultiThreadedEventLoopGroup(numThreads: System.coreCount)
+    private let loopGroup = MultiThreadedEventLoopGroup(numberOfThreads: System.coreCount)
     
     func setHost(to: String) {
         self.hostAdress = to
@@ -24,7 +24,7 @@ class Mormon: Router {
      Listen to a specific port on the machine for HTTP 1.x requests.
      **Required** method.
      */
-    func listen(port: Int, completionHandler: @escaping(Error?) -> ()) {
+    func listen(hostname: String, port: Int, completionHandler: @escaping(Error?) -> ()) {
         let reuseAddrOpt = ChannelOptions.socket(SocketOptionLevel(SOL_SOCKET), SO_REUSEADDR)
         
         let bootstrap = ServerBootstrap(group: loopGroup)
@@ -34,7 +34,6 @@ class Mormon: Router {
             .childChannelInitializer { channel in
                 channel.pipeline.configureHTTPServerPipeline().then { _ in
                     channel.pipeline.add(handler: HTTPHandler(router: self))
-                    
                 }
             }
             
@@ -44,8 +43,7 @@ class Mormon: Router {
         
         
         do {
-            //Host: from docker.compose.yml
-            let serverChannel = try bootstrap.bind(host: "mormon", port: port).wait()
+            let serverChannel = try bootstrap.bind(host: hostname, port: port).wait()
             completionHandler(nil)
             try serverChannel.closeFuture.wait() // kjører evig
         } catch let error {
